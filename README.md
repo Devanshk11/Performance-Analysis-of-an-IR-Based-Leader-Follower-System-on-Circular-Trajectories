@@ -92,17 +92,17 @@ For any inquiries or further information, you can reach me at dskapsit@gmail.com
 Thank you! 
 
 
-![Preliminary Sensor Analysis](Images/Intensity Variation Demonstration.png)
+![Preliminary Sensor Analysis](Images/Intensity_Variation_Demonstration.png)
 
-*Figure 1:IR Intensity Curve demonstrating the non-linear response of the reflectance sensors to the leader’s projected signal. The red line highlights the effective linear tracking region.*
+**Figure 1: IR Intensity Curve demonstrating the non-linear response of the reflectance sensors to the leader’s projected signal.** <br> The red line highlights the effective linear tracking region.*
 
-![Algorithm Design](Images/allgo design.png)
+![Algorithm Design](Images/algo.png)
 
-*Figure 2:Control logic flowchart describing the decision-making process for the follower robot.*
+**Figure 2: Control logic flowchart describing the decision-making process for the follower robot.**
 
 ![Curvature Design](Images/curvature.png)
 
-*Figure 3: Schematic representation of the three experimental path geometries.
+**Figure 3: Schematic representation of the three experimental path geometries.** <br>
 The distinct diameters (D = 20.5 cm, D = 28 cm, and D = 40
 cm) correspond to the High, Medium, and Low curvature test cases used
 to evaluate the system’s tracking stability.*
