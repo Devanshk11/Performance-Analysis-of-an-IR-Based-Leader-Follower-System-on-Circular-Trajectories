@@ -64,6 +64,33 @@ Each configuration was tested repeatedly to assess consistency and stability.
 
 ---
 
+## System Overview
+
+<p align="center">
+  <img src="Images/Intensity_Variation_Demonstration.png" width="550">
+</p>
+<p align="center">
+  <strong><u>Figure 1:</u></strong> IR Intensity Curve demonstrating the non-linear response of the reflectance sensors to the leader’s projected signal.<br>
+  <em>The red line highlights the effective linear tracking region.</em>
+</p>
+
+<p align="center">
+  <img src="Images/algo.png" width="450">
+</p>
+<p align="center">
+  <strong><u>Figure 2:</u></strong> Control logic flowchart describing the decision-making process for the follower robot.
+</p>
+
+<p align="center">
+  <img src="Images/curvature.png" width="500">
+</p>
+<p align="center">
+  <strong><u>Figure 3:</u></strong> Schematic representation of the three experimental path geometries.<br>
+  <em>The distinct diameters (D = 20.5 cm, D = 28 cm, and D = 40 cm) correspond to the high, medium, and low curvature test cases used to evaluate tracking stability.</em>
+</p>
+
+---
+
 ## Results Summary
 - The system achieved stable tracking within ±2 cm on smooth surfaces.
 - No single control setting works across all curvatures and environments.
@@ -92,18 +119,5 @@ For any inquiries or further information, you can reach me at dskapsit@gmail.com
 Thank you! 
 
 
-![Preliminary Sensor Analysis](Images/Intensity_Variation_Demonstration.png)
 
-**Figure 1: IR Intensity Curve demonstrating the non-linear response of the reflectance sensors to the leader’s projected signal.** <br> The red line highlights the effective linear tracking region.*
-
-![Algorithm Design](Images/algo.png)
-
-**Figure 2: Control logic flowchart describing the decision-making process for the follower robot.**
-
-![Curvature Design](Images/curvature.png)
-
-**Figure 3: Schematic representation of the three experimental path geometries.** <br>
-The distinct diameters (D = 20.5 cm, D = 28 cm, and D = 40
-cm) correspond to the High, Medium, and Low curvature test cases used
-to evaluate the system’s tracking stability.*
 
