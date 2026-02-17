@@ -70,7 +70,7 @@ Each configuration was tested repeatedly to assess consistency and stability.
   <img src="Images/Intensity_Variation_Demonstration.png" width="550">
 </p>
 <p align="center">
-  <strong><u>Figure 1:</u></strong> IR Intensity Curve demonstrating the non-linear response of the reflectance sensors to the leader’s projected signal.<br>
+  <strong><u>Figure 1:</u></strong> IR Intensity Curve demonstrating the non-linear response of the reflectance sensors to the leader’s projected signal.
   <em>The red line highlights the effective linear tracking region.</em>
 </p>
 
